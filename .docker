@@ -1,0 +1,3 @@
+CONTAINER_NAME=a-container-name
+IMAGE_NAME=docker-image-name
+SERVICE_NAME="systemd-service-name"
